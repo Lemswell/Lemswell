@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Lemswell
-- 👀 I’m interested in learning though projects
-- 🌱 I’m currently learning C and Java
-- 💞️ I’m looking to collaborate on anything I might be capable of contributing to!
-- 📫 How to reach me: contact at lemuel.delacruz@hotmail.com
+- 🌱 Currently a student enduring a course in software engineering
 
 <!---
 Lemswell/Lemswell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
