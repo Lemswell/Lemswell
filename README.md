@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Lemswell
-- 🌱 Currently a student enduring a course in software engineering
+- 🌱 Currently a fourth year student enduring a course in software engineering
+- Experience programming in Java, ... Java.
 - My student account is @Lemsel
 
 <!---
