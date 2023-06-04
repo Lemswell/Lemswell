@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Lemswell
 - 🌱 I'm a fourth year student enduring a course in software engineering.
-- Experience programming in Java
-- Currently learning Webdev HTML/CSS/JS
-- Not very confident but down to collab
+- 🏢 Experience programming in Java
+- 📖 Currently learning Webdev HTML/CSS/JS
+- 🙏 Down to collab
 
 <!---
 Lemswell/Lemswell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
