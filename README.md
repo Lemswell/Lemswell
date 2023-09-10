@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lem (@Lemswell)
 - 🌱 I'm a fourth year student enduring a course in software engineering.
-- 🏢 Experience programming in Java
-- 📖 Currently learning how to make webapps (outside my course)
+- 🏢 Learnt to program in Java
 - 🙏 Down to collab
 
 <!---
